@@ -18,11 +18,11 @@ A simple command-line tool to convert text and images into ASCII art!
 2. Run it in your terminal.
 
 ## Usage 🛠️
-### Text to ASCII Art:
-```bash
-ascii-art-windows.exe --text="Hello"
+## Text to ASCII Art:
+### ascii-art-windows.exe --text="Hello"
 
-### Image to ASCII Art:   ascii-art-windows.exe --image="path/to/image.jpg" --width=80 --height=40 --color=true
+## Image to ASCII Art: 
+### ascii-art-windows.exe --image="path/to/image.jpg" --width=80 --height=40 --color=true
 
 Changelog 📦
 v1.0: Initial release with text-to-ASCII and image-to-ASCII conversion.
