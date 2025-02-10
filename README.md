@@ -10,9 +10,9 @@ A simple command-line tool to convert text and images into ASCII art!
 
 ## Installation 🚀
 1. Download the appropriate version for your operating system:
-   - **[Windows](https://github.com/yourusername/your-repo/releases/download/v1.0/ascii-art-windows.exe)**
-   - **[Linux](https://github.com/yourusername/your-repo/releases/download/v1.0/ascii-art-linux)**
-   - **[Mac](https://github.com/yourusername/your-repo/releases/download/v1.0/ascii-art-mac)**
+   - **[Windows](https://github.com/sabbir-sabbir/your-repo/releases/download/v1.0/ascii-art-windows.exe)**
+   - **[Linux](https://github.com/sabbir-sabbir/your-repo/releases/download/v1.0/ascii-art-linux)**
+   - **[Mac](https://github.com/sabbir-sabbir/your-repo/releases/download/v1.0/ascii-art-mac)**
 
 2. Run it in your terminal.
 
