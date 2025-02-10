@@ -18,14 +18,26 @@ A simple command-line tool to convert text and images into ASCII art!
 2. Run it in your terminal.
 
 ## Usage 🛠️
-## Text to ASCII Art:
-### ascii-art-windows.exe --text="Hello"
+🛠️ Usage:
 
-## Image to ASCII Art: 
-### ascii-art-windows.exe --image="path/to/image.jpg" --width=80 --height=40 --color=true
+# 🔹 Windows:
+1️⃣ Download ascii-art-windows.exe
+2️⃣ Open Command Prompt (cmd) and run:
+ascii-art-windows.exe --text="Hello"
+3️⃣ For images:
+ascii-art-windows.exe --image="path/to/image.jpg" --width=80 --height=40 --color=true
+
+# 🔹 Mac & Linux:
+1️⃣ Download ascii-art-mac (Mac) or ascii-art-linux (Linux)
+2️⃣ Open Terminal and give it execute permission:
+chmod +x ascii-art-mac # For Mac
+chmod +x ascii-art-linux # For Linux
+3️⃣ Run the CLI tool:
+./ascii-art-mac --image="path/to/image.jpg" --width=80 --height=40 --color=true
+./ascii-art-linux --image="path/to/image.jpg" --width=80 --height=40 --color=true
 
 Changelog 📦
 v1.0: Initial release with text-to-ASCII and image-to-ASCII conversion.
 
-##Feel Free Contact me: iosabbir7890@gmail.com , mesabbir855@gmail.com
+## Feel Free Contact me: iosabbir7890@gmail.com , mesabbir855@gmail.com
                       
